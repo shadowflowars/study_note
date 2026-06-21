@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p images)",
+      "Bash(mv *.png *.jpg *.jpeg *.gif images/)"
+    ]
+  }
+}
