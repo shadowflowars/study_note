@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p images)",
+      "Bash(mv image.png image-1.png image-2.png image-3.png 1dc71419497801bbca8fcdd02b71954a.gif images/)"
+    ]
+  }
+}
